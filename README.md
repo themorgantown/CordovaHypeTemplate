@@ -7,6 +7,15 @@ More to come.
 
 ![](https://github.com/RandyMcMillan/CordovaHypeTemplate/raw/master/CordovaHypeScreenShot.png)
 
+
+
+
+![image](https://github.com/RandyMcMillan/CordovaHypeTemplate/raw/master/indexTemplate.png)
+
+
+![image](https://github.com/RandyMcMillan/CordovaHypeTemplate/raw/master/www.png)
+
+
 The MIT License
 
 Copyright © Randy McMillan 2012
