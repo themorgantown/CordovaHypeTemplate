@@ -1,5 +1,4 @@
 Starting Point for Hype usage with Cordova.
-Initial commits.
 
 More to come.
 
