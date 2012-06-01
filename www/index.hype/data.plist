@@ -7,8 +7,8 @@
 	<key>displayedAttributes</key>
 	<array>
 		<string>kPropertiesMenuItemIdentifierOpacity</string>
-		<string>kPropertiesMenuItemIdentifierAnimated</string>
 		<string>kPropertiesMenuItemIdentifierPosition</string>
+		<string>kPropertiesMenuItemIdentifierAnimated</string>
 	</array>
 	<key>documentVersion</key>
 	<string>108</string>
@@ -17,11 +17,11 @@
 	<key>guidesAreLocked</key>
 	<false/>
 	<key>lastCheckDate</key>
-	<date>2012-06-01T22:14:20Z</date>
+	<date>2012-06-01T22:24:15Z</date>
 	<key>layout</key>
 	<dict>
 		<key>keyframeTimelineHeight</key>
-		<real>57</real>
+		<real>34</real>
 		<key>mainWindowFrame</key>
 		<string>694 325 967 662 0 0 1920 1178 </string>
 		<key>openTabs</key>
@@ -31,7 +31,7 @@
 		<key>showSceneTabView</key>
 		<true/>
 		<key>splitHeight</key>
-		<real>463</real>
+		<real>486</real>
 		<key>splitViewIsVertical</key>
 		<false/>
 		<key>splitWidth</key>
@@ -108,7 +108,7 @@
 							<key>identifier</key>
 							<string>Opacity</string>
 							<key>objectValue</key>
-							<string>0.656878</string>
+							<string>1.000000</string>
 						</dict>
 						<dict>
 							<key>identifier</key>
@@ -329,7 +329,7 @@
 				<string>3</string>
 			</array>
 			<key>splitHeight</key>
-			<real>463</real>
+			<real>486</real>
 		</dict>
 	</array>
 	<key>scripts</key>
