@@ -9,13 +9,28 @@ More to come.
 
 
 
+Backup your copy of indexTemplate.html located in your Hype.app/Contents/Resources/ folder
+
 
 ![image](https://github.com/RandyMcMillan/CordovaHypeTemplate/raw/master/indexTemplate.png)
 
+and replace with this one.
+
+
+Use the /www folder in your Cordova app.
 
 ![image](https://github.com/RandyMcMillan/CordovaHypeTemplate/raw/master/www.png)
 
+For a Cordova (iOS) app 
 
+change
+<code> 
+		
+		self.viewController.startPage = @"index/index.html";
+
+in your AppDelegate.m 
+
+<br><br>
 The MIT License
 
 Copyright © Randy McMillan 2012
