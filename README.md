@@ -6,6 +6,8 @@ More to come.
 -RM
 
 
+![](https://github.com/RandyMcMillan/CordovaHypeTemplate/raw/master/CordovaHypeScreenShot.png)
+
 The MIT License
 
 Copyright © Randy McMillan 2012
